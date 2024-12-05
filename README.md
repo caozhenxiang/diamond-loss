@@ -36,3 +36,5 @@ pip install -e .
 
 ## Contact
 In case of comments or questions, please contact me at <zhenxiang.cao@esat.kuleuven.be>. 
+
+**PS. This repository has been included in the tire-cpd toolbox on Pypi.org. Please refer to the new repository [tire-cpd_toolbox_examples](https://github.com/caozhenxiang/tire-cpd_toolbox_examples) for more details.**
